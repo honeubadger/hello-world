@@ -1,6 +1,9 @@
 Short message in nano
 
 I had some issues creating my student github pack, but hopefully it will
-work tomorrow.
+work tomorrow!
 
 Alex
+
+Instead of all these fancy commands, I now have to use:
+git push https://PAT@github.com/username/repositoryName.git
