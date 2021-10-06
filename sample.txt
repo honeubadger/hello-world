@@ -7,3 +7,5 @@ Alex
 
 Instead of all these fancy commands, I now have to use:
 git push https://PAT@github.com/username/repositoryName.git
+
+This is for the stretch challenge
